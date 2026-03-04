@@ -1,0 +1,11 @@
+# Secrets / keys
+*.pem
+*.key
+*.env
+id_rsa
+id_ed25519
+id_* 
+*.kdbx
+
+# Local noise
+.DS_Store
