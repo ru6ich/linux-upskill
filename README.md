@@ -1,9 +1,9 @@
-# Linux Upskill Challenge (my notes)
+## Repository Structure
 
-Repo with my logbook and notes for Linux Upskill Challenge on Ubuntu cloud VM.
-
-Structure:
-- logbook.md — main course diary
-- days/ — per-day notes (optional)
-- artifacts/ — configs/snippets/scripts (NO secrets)
-- server/ — copies pulled from the VM
+- `days/` — notes for each Linux Upskill Challenge day
+- `artifacts/` — raw artifacts: command outputs, screenshots, temporary files
+- `server/` — server-related notes and data
+- `tlcl/` — notes from *The Linux Command Line*
+- `cheatsheets/` — short topic-based reference notes
+- `labs/` — small practical experiments
+- `logbook.md` — general progress log
